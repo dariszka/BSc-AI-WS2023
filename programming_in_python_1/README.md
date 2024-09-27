@@ -128,10 +128,6 @@ Handling text processing, regular expressions, multiprocessing, and system-level
 
 ---
 
-Here’s the description of **Assignment 10**:
-
----
-
  **Assignment 10:**
 
 Array manipulations and numerical operations using NumPy.

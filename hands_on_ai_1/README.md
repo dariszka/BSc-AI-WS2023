@@ -17,7 +17,7 @@ This assignment involves working with the **Breast Cancer Wisconsin dataset**, f
   - Applied **k-Means Clustering** with different values of k (2 and 3).
   - Implemented **Affinity Propagation** to discover clusters and analyze data patterns.
 
---------------
+---
 
 # U2 - Reading, Handling and Visualization of Datasets
 
@@ -35,7 +35,7 @@ This assignment involves tasks related to image manipulation, color segmentation
 - **Audio Signal Processing**
   - Generated and combined sine waves to create complex audio, then used Fourier transforms to analyze and decompose the signal.
 
---------------
+---
 
 # U3 - Supervised Machine Learning Basics
 
@@ -61,7 +61,7 @@ This assignment introduces fundamental **supervised learning techniques**, inclu
 - **Advanced Feature Combinations**  
   - Automated the process of finding the best feature combinations and model configurations using combinations and grid search techniques.
 
---------------
+---
 
 
 # U4 - Logistic Regression as a Door Opener to Deep Learning
@@ -86,7 +86,7 @@ This assignment explores **logistic regression**, focusing on synthetic data gen
 - **PyTorch Implementation**
   - Implemented key functions using PyTorch, including tensor operations and automatic differentiation for gradient computation.
 
---------------
+---
 
 # U5 - Your First Neural Networks
 
@@ -117,7 +117,7 @@ This assignment covers the creation, optimization, and evaluation of neural netw
   - Utilized PyTorch for various tasks including model training, loss calculation, and optimization.
   - Applied standard techniques for reproducibility and performance evaluation.
 
---------------
+---
 
 # U6 - Convolutional Neural Networks
 
@@ -138,7 +138,7 @@ This assignment concentrates on **image processing and convolutional neural netw
   - Evaluated model performance using accuracy metrics and visualized training and validation losses.
   - Compared outputs from max pooling and strided convolution layers to understand their effects on feature extraction.
 
---------------
+---
 
 # U7 - Tricks of the Trade
 
@@ -162,4 +162,4 @@ This assignment shows 'Tricks of the Trade' in **Convolutional Neural Networks (
 - **PyTorch Implementation**
   - Implemented CNNs and training routines using PyTorch, including functions for gradient descent and error rate evaluation.
 
---------------
+---
