@@ -4,7 +4,7 @@ Homeworks from Winter Semester 2023
 ---
 
 ### Repository Structure
-This repository organizes different programming assignments from my first semester into individual folders for each subject. Each folder contains a README with an overview and details of the key tasks performed. The structure is designed to showcase a progression of skills in data analysis, machine learning, and deep learning. All projects done by me, all summaries done by ChatGPT.
+This repository organizes different programming assignments done during my first semester into individual folders for each subject. Each folder contains a README with an overview and details of the key tasks performed. The structure is designed to showcase a progression of skills in data analysis, machine learning, and deep learning. All projects done by me, all summaries done by ChatGPT.
 
 ---
 
@@ -27,7 +27,6 @@ This collection showcases fundamental programming skills, transitioning to more 
 ---
 
 ### Supervised Machine Learning
-
 Third semester course.
 
 This course focused on building a deep understanding of key supervised learning techniques, with an emphasis on mathematical foundations and practical applications. Topics included k-nearest neighbors (k-NN), logistic regression, support vector machines (SVMs), decision trees, and ensemble methods such as AdaBoost. The course also explored bias-variance decomposition, constrained optimization, and the use of PyTorch for building neural networks. Throughout the course, assignments emphasized model evaluation, risk calculation, and error analysis, incorporating visualization techniques to interpret model performance. The assignments were implemented using Python, leveraging libraries such as NumPy, Scikit-learn, and PyTorch for computational efficiency.
